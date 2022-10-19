@@ -1,0 +1,9 @@
+This is a brief intdocution of the project that Iam creating
+I am still in deep waters and learning the practice, but I know with time and effort I will be able to develope with my eyes closed
+
+The purpose of this assignment is to create a simple receip with html 
+    Showcasing what I have learned so far
+    Being able to push the work through to GitHub Repository
+    Add commit to work that have been done and updated
+
+I am looking forward to the outcome and see if I would get it right
